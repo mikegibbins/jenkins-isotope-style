@@ -11,7 +11,7 @@ background-position: bottom left;
   background-position: bottom left;
 }
 
-
-#top-panel td > a {
-    background: url(http://postimage.org/image/nwrhms197/title2.png) !important;
+#top-panel
+  #top-panel td > a {
+    background: url("http://postimage.org/image/nwrhms197/title2.png") !important;
 }
