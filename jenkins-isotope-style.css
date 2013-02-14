@@ -6,3 +6,7 @@ body {
   background: -o-linear-gradient(top, #63818a 0%, #73939b 100%);
   background: -ms-linear-gradient(top, #63818a 0%, #73939b 100%);
   background: linear-gradient(top, #63818a 0%, #73939b 100%); }
+  
+main-table {
+  background-image: http://nitrogen/var/lib/jenkins/plugins/simple-theme-plugin/lurch.gif;
+}
