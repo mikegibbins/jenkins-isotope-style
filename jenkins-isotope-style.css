@@ -10,3 +10,8 @@ background-position: bottom left;
   background-repeat: no-repeat;
   background-position: bottom left;
 }
+
+
+#top-panel td > a {
+    background: url(http://postimage.org/image/nwrhms197/title2.png) !important;
+}
